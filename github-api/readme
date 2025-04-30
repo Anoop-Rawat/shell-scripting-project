@@ -1,0 +1,7 @@
+This script help us to list all the user who has access to the particular github repo
+
+to run this script use below command
+
+export username="<github-username>"
+export token="<github-token>"
+./list-user.sh <org-name> <repo-name> 
